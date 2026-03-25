@@ -1,7 +1,7 @@
-[# STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
+[[# STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
 
-## Name: harish ragavendra
-## Reg No: 212223080017
+## Name: JAISON THOMAS M
+## Reg No: 212224080019
 
 ## Aim:
 To study the operation of LVDT- Linear Variable Differential Transformer.
@@ -39,3 +39,4 @@ To study the operation of LVDT- Linear Variable Differential Transformer.
 Thus the operation of LVDT was studied and the displacement was measured. 
 
 ]
+](https://github.com/Jaisonthomas2006/-STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT.git)
